@@ -5,7 +5,7 @@
 
  This is fairly straightforward but there are a few steps which are quite tricky.
 
-### 1.) Download `mozilla.cfg` and `local-settings.js` 
+### 1.) Download `mozilla.cfg` and `local-settings.js` from the repo.
 
 ### 2.) Edit the `mozilla.cfg` 
 Insert the base64 encoded certificate WITHOUT any line breaks and without the 
